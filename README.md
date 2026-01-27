@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Ludmila
+## 👋 Hi, I'm Ludmila
 
 #### Data Analyst | Product Analyst
 
@@ -51,7 +51,7 @@ Data Analyst (Advanced), Product Analyst
 ---
 ####  📊 Dashboards
 
-##### TED Conferences
+##### TED Conferences 
 
 [![Open Dashboard](https://img.shields.io/badge/DataLens-Dashboard-blue?style=for-the-badge&logo=yandex)](https://datalens.yandex/qe7qrgdo8xk8a?_theme=dark)
 
@@ -66,4 +66,12 @@ Data Analyst (Advanced), Product Analyst
 ##### Food Delivery Service
 
 [![Open Dashboard](https://img.shields.io/badge/DataLens-Dashboard-blue?style=for-the-badge&logo=yandex)](https://datalens.yandex/jj2d3dbsishm5?_theme=dark)
+
+---
+#### 📬 Contact
+- 📧 Email: lsch15219@gmail.com
+- <img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/733233ee-68d1-49c2-a3ed-9f1a57d3424b" /> +34644620670
+- 🌍 Malaga
+
+
 
