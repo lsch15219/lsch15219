@@ -4,6 +4,11 @@
 
 🎯Turning data into insights that drive decisions
 
+I work with data to understand user behavior, evaluate product hypotheses, and support business decisions.
+
+I have a strong business and finance background from a gamedev company, where I worked with financial data, reporting, and operational metrics.  
+This experience is complemented by hands-on training and project work in product analytics, A/B testing, and BI.
+
 ---
 #### 🛠️ Skills & Tech Stack
 
@@ -16,24 +21,72 @@
   <strong>PostgreSQL</strong>&nbsp;&nbsp;
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
-  <strong>Jupyter Notebook</strong>&nbsp;&nbsp;
+  <strong>Jupyter</strong>&nbsp;&nbsp;
 
-  <img src="https://camo.githubusercontent.com/82f913d405406887600a1ad60cbfc3be9eb9ab011a149e61974be2f41c9316d6/68747470733a2f2f6170692e61636164656d792d6d61726b65742e636f6d2f73746f726167652f696d616765732f63616368652f73686f77636173655f6170706c69636174696f6e2f64383864666238356361303163393761373461313562643736616366656432312d773530305f63726f702e706e672e77656270" width="40" style="vertical-align: middle;"/>
-  <strong>Yandex DataLens</strong>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40"/>
+  <strong>Apache Airflow</strong>&nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40"/>
+  <strong>PySpark</strong>&nbsp;&nbsp;
+
+  <img src="https://yolva-it.ru/wp-content/uploads/2023/04/datalens_front-e1737618341223.png" width="40" style="vertical-align: middle;"/>
+  <strong>DataLens</strong>&nbsp;&nbsp;
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="40"/>
   <strong>Excel</strong>&nbsp;&nbsp;
-
 
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="40"/>
   <strong>Tableau</strong>
 </p>
 
 **Programming & Databases:** Python, PostgreSQL  
-**Data Analysis:** Jupyter Notebook, EDA, A/B Testing, Mathematical Statistics  
-**BI & Visualization:** Yandex DataLens, Excel, Tableau  
-**Soft Skills:** Analytical Thinking, Fast Learner, Teamwork, Stress Resilience
+**Data Analysis:** EDA, A/B Testing, Mathematical Statistics, Jupyter Notebook  
+**Data Engineering:** Apache Airflow, PySpark  
+**BI & Visualization:** DataLens, Excel, Tableau  
+**Product & Business Tools:** Jira, Confluence, ERP systems  
+**Soft Skills:** Analytical Thinking, Fast Learner, Teamwork
 
+---
+#### 🗂 Projects in Repositories
+
+<p align="left">
+  <a href="https://github.com/lsch15219/marketplace_analysis" style="margin-right:10px;">
+    <img src="https://img.shields.io/badge/Marketplace_Analysis-Repo-2f80ed?style=flat&width=160"/>
+  </a>
+  <a href="https://github.com/lsch15219/ab-tests-online-trading-app" style="margin-right:10px;">
+    <img src="https://img.shields.io/badge/AB_Tests_Trading_App-Repo-2f80ed?style=flat&width=160"/>
+  </a>
+</p>
+
+#### 📊 Dashboards
+
+<p align="left">
+  <a href="https://datalens.yandex/qe7qrgdo8xk8a?_theme=dark" style="margin-right:10px;">
+    <img src="https://img.shields.io/badge/TED_Conferences-Open-2f80ed?style=flat&width=160"/>
+  </a>
+  <a href="https://datalens.yandex/rf8o3bajvrzqb?_theme=dark" style="margin-right:10px;">
+    <img src="https://img.shields.io/badge/Real_Estate-Open-2f80ed?style=flat&width=160"/>
+  </a>
+  <a href="https://datalens.yandex/i7sp4k4k5zho2" style="margin-right:10px;">
+    <img src="https://img.shields.io/badge/E--commerce-Open-2f80ed?style=flat&width=160"/>
+  </a>
+  <a href="https://datalens.yandex/jj2d3dbsishm5?_theme=dark" style="margin-right:10px;">
+    <img src="https://img.shields.io/badge/Food_Delivery-Open-2f80ed?style=flat&width=160"/>
+  </a>
+</p>
+
+---
+
+#### 💼 Experience
+
+**SperaSoft** — Business Data & Reporting  
+*(6+ years of experience in business data and reporting)*
+
+- Managed and organized business data for internal reporting
+- Prepared, maintained, and streamlined structured reports for various teams
+- Ensured data accuracy, consistency, and completeness across all reports
+- Worked with large volumes of tabular data and complex datasets
+- Supported teams with timely and reliable data for operational purposes
 ---
 #### 🎓 Education
 
@@ -48,24 +101,6 @@ Data Analyst (Advanced), Product Analyst
 - **Russian** - Native
 - **English** - Intermediate (B2)
 - **Spanish** - Intermediate (B1)
----
-####  📊 Dashboards
-
-##### TED Conferences 
-
-[![Open Dashboard](https://img.shields.io/badge/DataLens-Dashboard-blue?style=for-the-badge&logo=yandex)](https://datalens.yandex/qe7qrgdo8xk8a?_theme=dark)
-
-##### Real Estate Market
-
-[![Open Dashboard](https://img.shields.io/badge/DataLens-Dashboard-blue?style=for-the-badge&logo=yandex)](https://datalens.yandex/rf8o3bajvrzqb?_theme=dark)
-
-##### E-commerce Sales
-
-[![Open Dashboard](https://img.shields.io/badge/DataLens-Dashboard-blue?style=for-the-badge&logo=yandex)](https://datalens.yandex/i7sp4k4k5zho2)
-
-##### Food Delivery Service
-
-[![Open Dashboard](https://img.shields.io/badge/DataLens-Dashboard-blue?style=for-the-badge&logo=yandex)](https://datalens.yandex/jj2d3dbsishm5?_theme=dark)
 
 ---
 #### 📬 Contact
