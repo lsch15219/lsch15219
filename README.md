@@ -1,11 +1,8 @@
 ## 👋 Hi, I'm Ludmila
 
 #### Data Analyst | Product Analyst | BI Analyst
-
-🎯Turning data into insights that drive decisions
-
 ---
-#### 🛠️ Skills & Tech Stack
+####  Skills & Tech Stack
 
 <p align="left">
   
@@ -40,7 +37,7 @@
 **Soft Skills:** Analytical Thinking, Fast Learner, Teamwork
 
 ---
-#### 🗂 Projects in Repositories
+####  Projects in Repositories
 
 <p align="left">
   <a href="https://github.com/lsch15219/marketplace_analysis" style="margin-right:10px;">
@@ -51,7 +48,7 @@
   </a>
 </p>
 
-#### 📊 Dashboards
+####  Dashboards
 
 <p align="left">
   <a href="https://datalens.yandex/qe7qrgdo8xk8a?_theme=dark" style="margin-right:10px;">
@@ -69,7 +66,7 @@
 </p>
 
 ---
-#### 🎓 Education
+####  Education
 
 **Volgograd State University** (2008)  
 Faculty of Management and Regional Economics  
@@ -78,12 +75,12 @@ Faculty of Management and Regional Economics
 Data Analyst (Advanced), Product Analyst
 
 ---
-#### 🌍 Languages
+####  Languages
 - **English** - Intermediate (B2)
 - **Spanish** - Intermediate (B1)
 
 ---
-#### 📬 Contact
+####  Contact
 - 📧 Email: lsch15219@gmail.com
 - <img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/733233ee-68d1-49c2-a3ed-9f1a57d3424b" /> +34644620670
 - 🌍 Malaga
