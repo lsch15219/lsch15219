@@ -67,9 +67,7 @@
 ---
 ####  Education
 
-Yandex 
-Professional Training Course (2025) -  
-Data Analyst. Product Analyst Specialization
+Yandex Professional Training Course (2025) -  Data Analyst. Product Analyst Specialization
 
 ---
 ####  Languages
