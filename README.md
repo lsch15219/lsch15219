@@ -32,7 +32,7 @@
 **Programming & Databases:** Python, PostgreSQL  
 **Data Analysis:** EDA, A/B Testing, Mathematical Statistics, Jupyter Notebook  
 **Data Engineering:** Apache Airflow, PySpark  
-**BI & Visualization:** DataLens, Excel
+**BI & Visualization:** DataLens, Excel  
 **Product & Business Tools:** Jira, Confluence, ERP systems  
 
 ---
@@ -67,7 +67,7 @@
 ---
 ####  Education
 
-Yandex Professional Training Course (2025) -  Data Analyst. Product Analyst Specialization
+Yandex Professional Training Course (2025) -  Data Analyst. Product Analyst
 
 ---
 ####  Languages
