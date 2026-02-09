@@ -34,7 +34,6 @@
 **Data Engineering:** Apache Airflow, PySpark  
 **BI & Visualization:** DataLens, Excel  
 **Product & Business Tools:** Jira, Confluence, ERP systems  
-
 ***
 ####  Projects in Repositories
 
