@@ -76,18 +76,6 @@ This experience is complemented by hands-on training and project work in product
 </p>
 
 ---
-
-#### 💼 Experience
-
-**SperaSoft** — Business Data & Reporting  
-*(6+ years of experience in business data and reporting)*
-
-- Managed and organized business data for internal reporting
-- Prepared, maintained, and streamlined structured reports for various teams
-- Ensured data accuracy, consistency, and completeness across all reports
-- Worked with large volumes of tabular data and complex datasets
-- Supported teams with timely and reliable data for operational purposes
----
 #### 🎓 Education
 
 **Volgograd State University** (2008)  
