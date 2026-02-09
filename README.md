@@ -1,6 +1,7 @@
 ## 👋 Hi, I'm Ludmila
 
 ***
+
 #### Data Analyst | Product Analyst | BI Analyst
 
 ***
