@@ -1,13 +1,8 @@
 ## 👋 Hi, I'm Ludmila
 
-#### Data Analyst | Product Analyst
+#### Data Analyst | Product Analyst | BI Analyst
 
 🎯Turning data into insights that drive decisions
-
-I work with data to understand user behavior, evaluate product hypotheses, and support business decisions.
-
-I have a strong business and finance background from a gamedev company, where I worked with financial data, reporting, and operational metrics.  
-This experience is complemented by hands-on training and project work in product analytics, A/B testing, and BI.
 
 ---
 #### 🛠️ Skills & Tech Stack
@@ -35,8 +30,6 @@ This experience is complemented by hands-on training and project work in product
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="40"/>
   <strong>Excel</strong>&nbsp;&nbsp;
 
-  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="40"/>
-  <strong>Tableau</strong>
 </p>
 
 **Programming & Databases:** Python, PostgreSQL  
