@@ -32,7 +32,7 @@
 **Programming & Databases:** Python, PostgreSQL  
 **Data Analysis:** EDA, A/B Testing, Mathematical Statistics, Jupyter Notebook  
 **Data Engineering:** Apache Airflow, PySpark  
-**BI & Visualization:** DataLens, Excel, Tableau  
+**BI & Visualization:** DataLens, Excel 
 **Product & Business Tools:** Jira, Confluence, ERP systems  
 
 ---
@@ -67,11 +67,10 @@
 ---
 ####  Education
 
-**Volgograd State University** (2008)  
-Faculty of Management and Regional Economics  
+Yandex
+Professional Training Course (2025)
+Data Analyst. Product Analyst Specialization
 
-**Yandex Practicum** (2025)  
-Data Analyst (Advanced), Product Analyst
 
 ---
 ####  Languages
