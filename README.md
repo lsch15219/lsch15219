@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Ludmila
 
 #### Data Analyst | Product Analyst | BI Analyst
-___
+***
 ####  Skills & Tech Stack
 
 <p align="left">
