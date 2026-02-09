@@ -79,7 +79,6 @@ Data Analyst (Advanced), Product Analyst
 
 ---
 #### 🌍 Languages
-- **Russian** - Native
 - **English** - Intermediate (B2)
 - **Spanish** - Intermediate (B1)
 
