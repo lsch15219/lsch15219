@@ -34,7 +34,6 @@
 **Data Engineering:** Apache Airflow, PySpark  
 **BI & Visualization:** DataLens, Excel, Tableau  
 **Product & Business Tools:** Jira, Confluence, ERP systems  
-**Soft Skills:** Analytical Thinking, Fast Learner, Teamwork
 
 ---
 ####  Projects in Repositories
