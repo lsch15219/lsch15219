@@ -75,8 +75,8 @@ English - Intermediate (B2), Spanish - Intermediate (B1)
 
 ***
 ####  Contact
-- 📧 Email: lsch15219@gmail.com
-- <img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/733233ee-68d1-49c2-a3ed-9f1a57d3424b" /> +34644620670
+- lsch15219@gmail.com
+- +34644620670
 
 
 
