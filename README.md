@@ -19,6 +19,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40"/>
   <strong>Apache Airflow</strong>&nbsp;&nbsp;
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clickhouse/clickhouse-original.svg" width="40"/>
+  <strong>ClickHouse</strong>&nbsp;&nbsp;
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40"/>
   <strong>PySpark</strong>&nbsp;&nbsp;
 
@@ -40,10 +43,13 @@
 
 <p align="left">
   <a href="https://github.com/lsch15219/marketplace_analysis" style="margin-right:10px;">
-    <img src="https://img.shields.io/badge/Marketplace_Analysis-Repo-2f80ed?style=flat&width=160"/>
+    <img src="https://img.shields.io/badge/Marketplace_Analysis_PY-Repo-2f80ed?style=flat&width=160"/>
   </a>
   <a href="https://github.com/lsch15219/ab-tests-online-trading-app" style="margin-right:10px;">
-    <img src="https://img.shields.io/badge/AB_Tests_Trading_App-Repo-2f80ed?style=flat&width=160"/>
+    <img src="https://img.shields.io/badge/AB_Tests_Trading_App_PY-Repo-2f80ed?style=flat&width=160"/>
+  </a>
+  <a href="https://github.com/lsch15219/book-service-analysis" style="margin-right:10px;">
+    <img src="https://img.shields.io/badge/Book_Service_ClickHouse-Repo-2f80ed?style=flat&width=160"/>
   </a>
 </p>
 
