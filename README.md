@@ -33,7 +33,7 @@
 
 </p>
 
-**Programming & Databases:** Python, PostgreSQL  
+**Programming & Databases:** Python, PostgreSQL, ClickHouse  
 **Data Analysis:** EDA, A/B Testing, Mathematical Statistics, Jupyter Notebook  
 **Data Engineering:** Apache Airflow, PySpark  
 **BI & Visualization:** DataLens, Excel  
