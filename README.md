@@ -51,6 +51,9 @@
   <a href="https://github.com/lsch15219/book-service-analysis" style="margin-right:10px;">
     <img src="https://img.shields.io/badge/Book_Service_ClickHouse-Repo-2f80ed?style=flat&width=160"/>
   </a>
+  <a href="https://github.com/lsch15219/game_monetization_analysis_SQL" style="margin-right:10px;">
+    <img src="https://img.shields.io/badge/Game_Monetization_SQL-Repo-2f80ed?style=flat&width=160"/>
+  </a>
 </p>
 
 ####  Dashboards
